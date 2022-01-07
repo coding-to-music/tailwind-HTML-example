@@ -4,6 +4,7 @@ https://nachoiacovino.com/blog/how-to-setup-tailwind-css-in-a-vanilla-html-proje
 
 https://github.com/nachoiacovino/next-tailwind-portfolio/blob/master/data/blog/how-to-setup-tailwind-css-in-a-vanilla-html-project.mdx
 
+![image](https://user-images.githubusercontent.com/3156358/148619911-e9e9441c-023d-4112-859a-f4580f257e0a.png)
 
 ---
 title: How to Setup Tailwind CSS in your Vanilla HTML Project  
