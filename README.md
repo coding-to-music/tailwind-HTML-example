@@ -6,14 +6,11 @@ https://github.com/nachoiacovino/next-tailwind-portfolio/blob/master/data/blog/h
 
 ![image](https://user-images.githubusercontent.com/3156358/148619911-e9e9441c-023d-4112-859a-f4580f257e0a.png)
 
----
 title: How to Setup Tailwind CSS in your Vanilla HTML Project  
 date: '2021-08-04'  
 tags: ['tailwind css', 'html', 'tutorial']  
 draft: false  
 summary: 'Easiest way to setup Tailwind CSS in your Vanilla HTML project. Quick and easy   step-by-step guide.'  
-image: '/static/images/blog/tailwind-css-in-vanilla-html.png' 
----
 
 
 ## Introduction
